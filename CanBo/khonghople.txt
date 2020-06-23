@@ -1,0 +1,3 @@
+Dong 7;Loi so thong tin khac 5
+Dong 8;Loi ma cb khong hop le
+Dong 9;Loi so thong tin khac 5;Loi ma cb khong hop le

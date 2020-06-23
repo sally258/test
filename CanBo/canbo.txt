@@ -1,0 +1,9 @@
+cb01;Nguyen Van A;Ha Noi;12.50;Don Vi 1
+cb02;Nguyen Thi B;Ho Chi Minh;13.25;Don Vi 2
+cb03;Tran Thi C;Hue;11.15;Don Vi 1
+cb04;Nguyen Van D;Dong Thap;11.75;Don Vi 3
+cb05;Tran Van E;Ha Noi;12.00;Don vi 3
+cb06;Le Thi F;Can Tho;12.30;Don Vi 4
+cb07;Nguyen Minh K;Ho Chi Minh;13.05;Don Vi 2;ABCD
+ab08;Nguyen Minh K;Ho Chi Minh;13.05;Don Vi 2
+av09;Tran Van E;Ha Noi;12.00
